@@ -4,8 +4,8 @@
     "OutputPath": "op/config.json"
   },
   "Pool": {
-    "ProxySource": "https://tq.lunaproxy.com/getflowip?neek=1085616&num=50&type=1&sep=1&regions=all&ip_si=1&level=1&sb=",
-    "ProxyType": "Socks5",
+    "ProxySource": "TXT格式的API，或者本地文件路径",
+    "ProxyType": "Socks",
     "MaxProxyCount": 10
   }
 }
